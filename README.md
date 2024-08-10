@@ -5,6 +5,9 @@ A repo for cool CSS - I created this to have a dumping ground for my re-sparked 
 - [Sorted](https://stacksorted.com) by [Juxatopposed](https://www.youtube.com/@juxtopposed)
   - Displayed cool css elements and where they came from
 ---
+# With JS
+## OnScroll
+- [Basic OnScroll](https://www.youtube.com/watch?v=T33NN_pPeNI) by [Beyond Fireship](https://www.youtube.com/@beyondfireship)
 
 # Without JS
 ## Cards
@@ -39,3 +42,7 @@ A repo for cool CSS - I created this to have a dumping ground for my re-sparked 
 
 ## Wireframing
 - [Balsamiq](https://balsamiq.com/)
+
+## UI.UX Devs to Watch
+- Juxapposed
+- Beyond Fireship
