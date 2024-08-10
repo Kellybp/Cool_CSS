@@ -11,3 +11,8 @@ A repo for cool CSS
 
 ## Other
 -  [Responsive House with CSS Container Query](https://codepen.io/gayane-gasparyan/pen/yLqjVWb) by [Gayane Gasparyan](https://codepen.io/gayane-gasparyan)
+-  
+
+# General Links for UI/UX Dev
+- [Realtime Colors](https://www.realtimecolors.com/) by [Juxatopposed](https://www.youtube.com/@juxtopposed)
+  - Visualization tool for colors and Fonts
