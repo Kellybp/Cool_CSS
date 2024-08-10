@@ -14,5 +14,19 @@ A repo for cool CSS
 -  
 
 # General Links for UI/UX Dev
+## Color Visualization
 - [Realtime Colors](https://www.realtimecolors.com/) by [Juxatopposed](https://www.youtube.com/@juxtopposed)
   - Visualization tool for colors and Fonts
+- [Coloors](https://coolors.co/)
+## Referance Material
+- [Dribble](https://dribbble.com/)
+- 
+## Graphics
+- [Icons](https://icons8.com/)
+- [Freepik](https://www.freepik.com/)
+## 3D Design
+- [Spline](https://spline.design/)
+## VR
+- [A-Frame](https://aframe.io/)
+## Wireframing
+- [Balsamiq](https://balsamiq.com/)
