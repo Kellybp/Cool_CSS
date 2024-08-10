@@ -1,5 +1,5 @@
 # Cool_CSS
-A repo for cool CSS
+A repo for cool CSS - I created this to have a dumping ground for my re-sparked love of learning UI/UX development. 
 
 # Secondary Options to Find Cool CSS
 - [Sorted](https://stacksorted.com) by [Juxatopposed](https://www.youtube.com/@juxtopposed)
