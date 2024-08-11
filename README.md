@@ -5,6 +5,8 @@ A repo for cool CSS - I created this to have a dumping ground for my re-sparked 
 - [Sorted](https://stacksorted.com) by [Juxatopposed](https://www.youtube.com/@juxtopposed)
   - Displayed cool css elements and where they came from
 ---
+
+
 # With JS
 ## OnScroll
 - [Basic OnScroll](https://www.youtube.com/watch?v=T33NN_pPeNI) by [Beyond Fireship](https://www.youtube.com/@beyondfireship)
@@ -13,8 +15,10 @@ A repo for cool CSS - I created this to have a dumping ground for my re-sparked 
 ## Cards
 - [3D Card Hover](https://codepen.io/gayane-gasparyan/pen/wvxewXO) by [Gayane Gasparyan](https://codepen.io/gayane-gasparyan)
 
+
 ## Other
 -  [Responsive House with CSS Container Query](https://codepen.io/gayane-gasparyan/pen/yLqjVWb) by [Gayane Gasparyan](https://codepen.io/gayane-gasparyan)
+
 
 ---
 # General Links for UI/UX Dev
@@ -46,3 +50,7 @@ A repo for cool CSS - I created this to have a dumping ground for my re-sparked 
 ## UI.UX Devs to Watch
 - Juxapposed
 - Beyond Fireship
+
+## Text Generator
+- [Lorem Ipsum](https://loremipsum.io/generator)
+- [Hipster Ipsum](https://hipsum.co)
