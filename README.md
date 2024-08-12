@@ -39,6 +39,7 @@ A repo for cool CSS - I created this to have a dumping ground for my re-sparked 
 ## Graphics
 - [Icons](https://icons8.com/)
 - [Freepik](https://www.freepik.com/)
+- [Logos](https://www.dicebear.com/playground/)
   
 ## 3D Design
 - [Spline](https://spline.design/)
