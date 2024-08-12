@@ -1,0 +1,55 @@
+body {
+  background-color: #131316;
+  color: #ffffff;
+  padding: 0;
+  margin: 0;
+}
+
+section {
+  display: grid;
+  place-items: center;
+  align-content: center;
+  min-height: 100vh;
+}
+
+.items {
+  display: flex;
+}
+
+.item {
+  width: 50px;
+  padding: 1rem;
+  margin: 0 0.5rem;
+  opacity: 0;
+  /* Extra  */
+  filter: blur(5px);
+  transform: translateX(-100%);
+  /* End Extra */
+  transition: all 1s;
+}
+
+.show {
+  opacity: 1;
+  /* Extra */
+  filter: blur(0);
+  transform: translateX(0);
+}
+
+/* Be kind to your fellow man, don't for them to interact with transitions if they don't want to */
+@media (prefers-reduced-motion) {
+  .item {
+    transition: none;
+  }
+}
+
+.item:nth-child(2) {
+  transition-delay: 200ms;
+}
+
+.item:nth-child(3) {
+  transition-delay: 400ms;
+}
+
+.item:nth-child(4) {
+  transition-delay: 600ms;
+}

@@ -10,6 +10,8 @@ A repo for cool CSS - I created this to have a dumping ground for my re-sparked 
 # With JS
 ## OnScroll
 - [Basic OnScroll](https://www.youtube.com/watch?v=T33NN_pPeNI) by [Beyond Fireship](https://www.youtube.com/@beyondfireship)
+## OnScroll Staggering Effect
+- [Staggering Effect](https://www.youtube.com/watch?v=T33NN_pPeNI) by [Beyond Fireship](https://www.youtube.com/@beyondfireship)
 
 # Without JS
 ## Cards
